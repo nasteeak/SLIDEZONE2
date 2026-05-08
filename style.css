@@ -1501,7 +1501,7 @@ footer {
 /* Tablet Landscape */
 @media (max-width: 834px) {
   body { padding-top: 95px; }
-  .hero { margin-top: -95px; padding-top: 95px; }
+  .hero { margin-top: -100px; padding-top: 100px; }
   .hero-title { font-size: 3.2rem; }
   .section-title { font-size: 1.9rem; }
   .scroll-card { width: 260px; }
@@ -1512,7 +1512,7 @@ footer {
 /* Tablet */
 @media (max-width: 768px) {
   body { padding-top: 90px; }
-  .hero { margin-top: -90px; padding-top: 90px; min-height: 65vh; }
+  .hero { margin-top: -100px; padding-top: 100px; min-height: 65vh; }
   .hero-title { font-size: 3rem; }
   .hero-subtitle { font-size: 1rem; }
   .navbar-top-section { padding: 6px 70px; }
@@ -1538,7 +1538,7 @@ footer {
 /* Large Mobile */
 @media (max-width: 640px) {
   body { padding-top: 85px; }
-  .hero { margin-top: -85px; padding-top: 85px; }
+  .hero { margin-top: -100px; padding-top: 100px; }
   .hero-title { font-size: 2.7rem; }
   .hero-subtitle { font-size: 0.95rem; }
   .btn-hero { padding: 15px 45px; font-size: 1rem; }
@@ -1560,7 +1560,7 @@ footer {
 /* Mobile */
 @media (max-width: 480px) {
   body { padding-top: 80px; }
-  .hero { margin-top: -80px; padding-top: 80px; max-height: auto; }
+  .hero { margin-top: -100px; padding-top: 100px; max-height: auto; }
   .hero-content { padding: 60px 20px; }
   .hero-title { font-size: 2.3rem; margin-top: 0; }
   .hero-subtitle { font-size: 0.9rem; }
@@ -1608,7 +1608,7 @@ footer {
 /* Small Mobile */
 @media (max-width: 380px) {
   body { padding-top: 75px; }
-  .hero { margin-top: -75px; padding-top: 75px; }
+  .hero { margin-top: -90px; padding-top: 90px; }
   .navbar-top-section { padding: 3px 0; }
   .logo { height: 50px; }
   .nav-bottom-link { font-size: 0.7rem; }
@@ -1658,7 +1658,7 @@ footer {
 /* Extra Small Mobile */
 @media (max-width: 320px) {
   body { padding-top: 70px; }
-  .hero { margin-top: -70px; padding-top: 70px; }
+  .hero { margin-top: -80px; padding-top: 80px; }
   .hero-title { font-size: 1.6rem; }
   .hero-subtitle { font-size: 0.8rem; }
   .btn-hero { padding: 10px 25px; font-size: 0.75rem; }
